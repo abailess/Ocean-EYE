@@ -5,7 +5,7 @@
 
 // ---------- Wi-Fi ----------
 const char* ssid = "Wifi_Tara_Scientist";
-const char* password = "Tara@Scientist2023";
+const char* password = "Password"; //your password here 
 WiFiServer server(4070);
 
 // ---------- NTP ----------
