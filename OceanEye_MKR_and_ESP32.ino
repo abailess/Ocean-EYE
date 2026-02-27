@@ -1,5 +1,5 @@
 /*
- * MKR Zero – Hamamatsu Spectrometer I2C Slave
+ * MKR Zero – Hamamatsu Spectrometer I2C
  */
 
 #include <Wire.h>
